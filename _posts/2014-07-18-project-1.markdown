@@ -1,15 +1,15 @@
 ---
 title: Dreams
-subtitle: Website Design
+subtitle:
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+# date: 2014-07-18
+img: juragan-dana.png
+thumbnail: client.png
+alt: juragan-dana
+# project-date: April 2014
+# client: Start Bootstrap
+# category: Web Development
+description: Juragan Dana adalah platform yang mempertemukan pemodal dan pelanggan. Menyediakan pinjaman struktur fleksibel, proses sangat cepat dan mudah, bekerja sama dengan lebih dari 15 pemodal. Sehingga nasabah dapat dengan mudah mengakses dana tunai dengan suku bunga yang menguntungkan serta jangka waktu pembayaran yang fleksibel, baik untuk pembiayaan ulang kendaraan bermotor maupun pembiayaan perumahan.
 
 ---
